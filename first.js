@@ -42,3 +42,47 @@ console.log(totalPrice);
 
 
 
+var age = 50;
+var age = 150;
+var age = 100;
+
+console.log(age);
+
+
+
+let age = 50;
+age = 150;
+age = 100;
+
+console.log(age);
+
+
+
+const age = 60;
+const PI = 3.14;
+
+console.log(age);
+console.log(PI);
+
+
+
+let a;
+console.log(a);
+
+
+{
+    let a = 10;
+    const b = 100;
+    console.log(a);
+    console.log(b);
+}
+{
+    let a = 20;
+    const b = 200;
+    console.log(a);
+    console.log(b);
+}
+
+
+
+
