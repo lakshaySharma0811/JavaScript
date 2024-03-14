@@ -85,4 +85,12 @@ console.log(a);
 
 
 
+// Data types
+let age = 50;  // number
+let fullName = "Lakshay Sharma";  // string
+let isFollow = true;  // boolean
+let x;  // Undefined
+let x = null;  // null
+
+
 
